@@ -70,7 +70,7 @@ The project demonstrates a practical application of the concepts learned through
 
 To run the code, you will need:
 
-- MATLAB (R20XX or later recommended)
+- MATLAB
 - Image Processing Toolbox
 - Computer Vision Toolbox
 
@@ -85,6 +85,6 @@ To run the code, you will need:
 
 ## Course Context
 
-This work was completed as part of the **Image and Video Processing** course in the **Computer Engineering program**.
+This work was completed as part of the **Image and Video Processing** course in the **Computer Engineering program** at the **Lebanese American University - Byblos**.
 
 ---
